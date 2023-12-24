@@ -1,0 +1,4 @@
+map_name: No_Man's_Land_Navalland
+games:
+- {game_name: No Man's Land Navalland, file_name: No_Man's_Land_Navalland.xml}
+version: 0
